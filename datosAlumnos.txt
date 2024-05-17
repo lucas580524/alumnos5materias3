@@ -1,0 +1,21 @@
+Alumno: Juan Perez
+Materia 1: biologia
+Materia 2: matematica
+Materia 3: lengua
+Materia 4: Historia
+Materia 5: Filosofia
+
+Alumno: Maria Castillo
+Materia 1: Biologia
+Materia 2: Filosofia
+Materia 3: Teatro
+Materia 4: Lengua
+Materia 5: Quimica
+
+Alumno: Pepe Sanchez
+Materia 1: Matematica
+Materia 2: Quimica
+Materia 3: Biologia
+Materia 4: Historia
+Materia 5: Lengua
+
